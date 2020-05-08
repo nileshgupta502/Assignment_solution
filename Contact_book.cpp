@@ -7,7 +7,7 @@
 #include<string.h>
 #include<stdio.h>
 using namespace std;
-
+//It was my 2nd year project 
 class email
 {
 
